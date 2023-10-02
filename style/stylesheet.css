@@ -1,0 +1,25 @@
+body {
+    background-color: #EAF6F6;
+}
+.circular {
+    border-radius: 100%;
+}
+hr {
+    border-style: dotted none none;
+    height: 0px;
+    width: 3%;
+    border-color: grey;
+    border-width: 5px;
+    transition-property: var();
+}
+h1 {
+    color: #005555;
+}
+h3
+{
+    color:#40DFEF;
+}
+h2
+{
+   color:#2F8F9D;
+}
